@@ -1,5 +1,5 @@
 ## The Challenge
-Welcome to the Forma.ai stock statement generator! In this problem, you will be coding up a transaction
+Welcome to the stock statement generator! In this problem, you will be coding up a transaction
 statement generator for a trader on our stock trading system. Sample data is provided in `input.json` and should produce the exact console output as shown in `output.txt` when run through your program.
 
 ## The Data
